@@ -1,0 +1,15 @@
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\bin\Debug\net6.0\CountWords.exe
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\bin\Debug\net6.0\CountWords.deps.json
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\bin\Debug\net6.0\CountWords.runtimeconfig.json
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\bin\Debug\net6.0\CountWords.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\bin\Debug\net6.0\CountWords.pdb
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\CountWords.csproj.AssemblyReference.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\CountWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\CountWords.AssemblyInfoInputs.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\CountWords.AssemblyInfo.cs
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\CountWords.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\refint\CountWords.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\CountWords.pdb
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\CountWords.genruntimeconfig.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\CountWords\obj\Debug\net6.0\ref\CountWords.dll
